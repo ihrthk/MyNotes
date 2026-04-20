@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-财务管理/财务管理 万成长房子：消费贷→房贷.md",
+                "file": "04-财务管理/财务管理 笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "财务管理 万成长房子：消费贷→房贷"
+              "title": "财务管理 笔记"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-财务管理/财务管理 万成长房子：消费贷→房贷.md",
+                "file": "04-财务管理/财务管理 笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "财务管理 万成长房子：消费贷→房贷 的大纲"
+              "title": "财务管理 笔记 的大纲"
             }
           }
         ],
@@ -186,6 +186,8 @@
   },
   "active": "a6c2d338697c2cdb",
   "lastOpenFiles": [
+    "04-财务管理/财务管理 万成长房子：消费贷→房贷.md",
+    "04-财务管理/财务管理-万成长房子.md",
     "04-财务管理/优质的股债资产/assets/股票资产投资/存款利率下降，会利好哪些品种.pdf",
     "04-财务管理/优质的股债资产/assets/股票资产投资/Untitled3.jpeg",
     "04-财务管理/优质的股债资产/assets/股票资产投资/A%E8%82%A1%E8%BF%87%E5%8E%BB20%E5%B9%B4%EF%BC%8C%E7%BB%8F%E5%8E%86%E7%9A%845%E8%BD%AE%E7%89%9B%E7%86%8A%E5%B8%82.pdf",
@@ -205,7 +207,6 @@
     "04-财务管理/优质的股债资产/assets/股债配置方案/Untitled4.pdf",
     "04-财务管理/优质的股债资产/assets/股债配置方案/Untitled3.png",
     "04-财务管理/优质的股债资产/assets/股债配置方案/Untitled3.pdf",
-    "04-财务管理/优质的股债资产/assets/股债配置方案/Untitled2.pdf",
     "04-财务管理/优质的股债资产/assets/股债配置方案/IMG_0383.png",
     "04-财务管理/优质的股债资产/资产配置策略.md",
     "04-财务管理/优质的股债资产/股票资产投资.md",
@@ -230,7 +231,6 @@
     "02-工作学习/Android 专项/依赖注入Hilt.md",
     "02-工作学习/Android 专项/Binder.md",
     "02-工作学习/Android 专项/ARouter.md",
-    "02-工作学习/Android 专项/App 启动(基于 Android 8 0).md",
-    "02-工作学习/Android 专项/Android 基础.md"
+    "02-工作学习/Android 专项/App 启动(基于 Android 8 0).md"
   ]
 }
