@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -185,7 +184,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae53bbd50a756e0c",
+  "active": "fc060b0a30bf5810",
   "lastOpenFiles": [
     "01-个人生活/万成长房子：消费贷→房贷.md",
     "02-工作学习/tech 2026-04-05-fastfetch-btop.md.sb-07a595e5-1hlbfK",

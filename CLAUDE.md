@@ -1,11 +1,4 @@
 # CLAUDE.md
-
-
-
-
-
-
-
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
 ## 项目概述
@@ -62,7 +55,6 @@ MyNotes/
 - assets 内按 MD 文件名建立子文件夹分类
 - 引用路径使用相对路径 `assets/文件名/附件名`
 - **中文路径处理**：Obsidian 可能对中文路径进行 URL 编码（如 `%E5%8D%97%E4%BA%AC`），在手动编辑链接时需要注意处理这种编码格式
-
 ## Obsidian 配置
 
 ### 基础配置
