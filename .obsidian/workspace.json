@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "5e4b308b5b4078b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fa581690da35484",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6c2d338697c2cdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CLAUDE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CLAUDE"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "914cdad893d11857",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f8008e936caae19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc060b0a30bf5810",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "ae53bbd50a756e0c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "d6b7d271aa95d7cb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ef1c95b1a93816c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbc32937baa1c7a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "588fac5ccab09956",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "app-startup/app接入广告.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "app接入广告 的反向链接列表"
+            }
+          },
+          {
+            "id": "33660d3b6424c735",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "README 的出链列表"
+            }
+          },
+          {
+            "id": "3f5ba2bb3d86c0bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "2826579fc23c2fa5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "4279cc39a120ca7b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CLAUDE.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "CLAUDE 的大纲"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 384.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ae53bbd50a756e0c",
+  "lastOpenFiles": [
+    "01-个人生活/万成长房子：消费贷→房贷.md",
+    "02-工作学习/tech 2026-04-05-fastfetch-btop.md.sb-07a595e5-1hlbfK",
+    "01-个人生活/哥就是个传说的首页/身体健康 00-索引.md.sb-07a595e5-WVlAnC",
+    "01-个人生活/哥就是个传说的首页/取得的小成就 让人高兴的事.md.sb-07a595e5-eN6qXA",
+    "02-工作学习/Android 专项/Java并发编程 ba6ac9ac8c9648bfb91617da46a1d740.md.sb-07a595e5-t7Ce2M",
+    "01-个人生活/南京工作生活.md.sb-07a595e5-kxphWH",
+    "03-待办事项/To-do List/Vivo系统及手机 1447d10b14c480408f68fc21b58b8bf2.md.sb-07a595e5-NNtGFs",
+    "04-财务管理/投资理财+保险/北京房产.md",
+    "04-财务管理/投资理财+保险/assets/天津市河东区程林里司法拍卖/第12课_二手房价格：如何跟房东谈价？_笔记.pdf",
+    "04-财务管理/投资理财+保险/assets/天津市河东区程林里司法拍卖/河西区小学印象.jpg",
+    "04-财务管理/投资理财+保险/assets/天津市河东区程林里司法拍卖/河东区小学印象.jpg",
+    "04-财务管理/投资理财+保险/assets/天津市河东区程林里司法拍卖/南开区小学印象.jpg",
+    "04-财务管理/投资理财+保险/assets/天津市河东区程林里司法拍卖/f4d8b77506651a2d2da6bf98c89ef07d.png",
+    "04-财务管理/投资理财+保险/assets/天津市河东区程林里司法拍卖/d6f936a370181ddff0c9079625e45c81.jpeg",
+    "04-财务管理/投资理财+保险/assets/天津市河东区程林里司法拍卖/bed977269a11a272bc749470ef510f7c.png",
+    "04-财务管理/投资理财+保险/assets/天津市河东区程林里司法拍卖/Untitled1.png",
+    "04-财务管理/投资理财+保险/assets/天津市河东区程林里司法拍卖/Untitled.png",
+    "04-财务管理/投资理财+保险/assets/天津市河东区程林里司法拍卖/O1CN010VLpQY1VWKHBQuBUQ_!!6000000002660-2-tps-222-222.png",
+    "04-财务管理/投资理财+保险/assets/天津市河东区程林里司法拍卖/IMG_6653.png",
+    "04-财务管理/投资理财+保险/assets/天津市河东区程林里司法拍卖/2023%E5%B9%B4%E5%B8%82%E5%86%85%E5%85%AD%E5%8C%BA%E9%AB%98%E4%B8%AD%E5%AE%89%E7%BD%AE%E8%80%83%E8%AF%95%E6%94%BB%E7%95%A5.pdf",
+    "04-财务管理/投资理财+保险/assets/天津市河东区程林里司法拍卖",
+    "04-财务管理/投资理财+保险/天津买房落户上学/assets/天津市河东区程林里司法拍卖/第12课_二手房价格：如何跟房东谈价？_笔记.pdf",
+    "04-财务管理/投资理财+保险/天津买房落户上学/天津市河东区程林里55-7-501-504 - 司法拍卖 - 阿里资产 1e37d10b14c4814da048cb6d01bed860.md",
+    "04-财务管理/投资理财+保险/天津买房落户上学.md",
+    "04-财务管理/投资理财+保险/优质的股债资产.md",
+    "04-财务管理/投资理财+保险/孩子的教育.md",
+    "04-财务管理/投资理财+保险/北京房产 2ac7cdc98fef4f25b1d9dfc806d54b26.md",
+    "04-财务管理/投资理财+保险/孩子的教育 020b45e34d6f434285519872da9feb21.md",
+    "04-财务管理/投资理财+保险/天津买房落户上学 2034a99f5a9b44859816f64788ddc30a.md",
+    "04-财务管理/投资理财+保险/优质的股债资产 a6a89bf4b547481da55e8a5652b8c095.md",
+    "04-财务管理/投资理财+保险/资产和负债 5d0c50cbfe0644e09c033ca07ec22051.md",
+    "04-财务管理/投资理财+保险/资产负债表/魏国华 b028c26874104db5924fcecaad989561.md",
+    "app-startup/夫妻档独立开发全攻略.md",
+    "app-startup/在当前 AI 时代，做个人独立开发者、 APP 独立开发者怎么样？他们现状是怎么样的？.md",
+    "app-startup/app接入广告.md",
+    "04-财务管理/投资理财+保险/资产负债表/李广 3dae0e6bf2ad4d038d5fbdffa38b2f6b.md",
+    "04-财务管理/投资理财+保险/资产负债表/李广 2e70f88fcba4459389a82de153c80f59.md",
+    "02-工作学习/职业发展→AI编程赛道/mcprule-ts.md",
+    "01-个人生活/Personal Home/Yearly Goals 0833b9935a714d428d345c2c7f0825b7.md",
+    "01-个人生活/Personal Home/Movie List 8d8736aa7a45441f8cbada4907850e5a.md",
+    "01-个人生活/Personal Home/Home.md",
+    "01-个人生活/Journal/28th Birthday b6f9f85151a94fedb313d1a44e608e08.md",
+    "01-个人生活/扇贝 工作文档/我的词表页面类图 1857d10b14c480c0b85bcc82dd3a196c.md",
+    "01-个人生活/扇贝 工作文档/扇贝工作文档自评.md",
+    "01-个人生活/哥就是个传说的首页/重要：任务管理/Binder的Note.md",
+    "01-个人生活/哥就是个传说的首页/重要：任务管理/咨询景明佳园幼儿园入学.md"
+  ]
+}

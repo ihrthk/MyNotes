@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>网站备案信息</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            background: #f5f5f5;
+            color: #333;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+        .card {
+            background: #fff;
+            border-radius: 8px;
+            padding: 32px 40px;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+            max-width: 480px;
+            width: 100%;
+        }
+        .card h1 {
+            font-size: 18px;
+            font-weight: 600;
+            margin-bottom: 24px;
+            text-align: center;
+            color: #1a1a1a;
+        }
+        .info-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 12px 0;
+            border-bottom: 1px solid #f0f0f0;
+        }
+        .info-row:last-of-type {
+            border-bottom: none;
+        }
+        .info-label {
+            font-size: 14px;
+            color: #666;
+        }
+        .info-value {
+            font-size: 14px;
+            color: #1a1a1a;
+            font-weight: 500;
+        }
+        .info-value a {
+            color: #1a1a1a;
+            text-decoration: none;
+        }
+        .info-value a:hover {
+            color: #1677ff;
+        }
+        .footer {
+            margin-top: 24px;
+            text-align: center;
+            font-size: 12px;
+            color: #999;
+            padding: 16px 0;
+            border-top: 1px solid #f0f0f0;
+        }
+        .footer a {
+            color: #666;
+            text-decoration: none;
+        }
+        .footer a:hover {
+            color: #1677ff;
+        }
+        .footer svg {
+            vertical-align: middle;
+            margin-right: 4px;
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1>网站备案信息</h1>
+
+        <div class="info-row">
+            <span class="info-label">ICP 备案号</span>
+            <span class="info-value"><a href="https://beian.miit.gov.cn/" target="_blank">吉ICP备2026002505号</a></span>
+        </div>
+        <div class="info-row">
+            <span class="info-label">公安联网备案</span>
+            <span class="info-value"><a href="http://www.beian.gov.cn/portal/registerSystemInfo" target="_blank">苏公网安备32011102010843号</a></span>
+        </div>
+
+        <div class="footer">
+            <a href="https://beian.miit.gov.cn/" target="_blank">吉ICP备2026002505号</a>
+            &nbsp;|&nbsp;
+            <a href="http://www.beian.gov.cn/portal/registerSystemInfo" target="_blank">
+                <svg width="14" height="14" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg"><path d="M512 64L128 224v320c0 212 163 401 384 448 221-47 384-236 384-448V224L512 64zm0 96l256 112v272c0 164-118 308-256 352-138-44-256-188-256-352V272L512 160zm-32 160v192h64V320h-64zm0 256v64h64v-64h-64z" fill="#666"/></svg>
+                苏公网安备32011102010843号
+            </a>
+        </div>
+    </div>
+</body>
+</html>
